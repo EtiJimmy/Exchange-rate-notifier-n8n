@@ -26,7 +26,8 @@ Gmail Node – Sends a personalized email update.
   
 ## 📬 Example Output
 
-<img width="1062" height="421" alt="Screenshot 2025-08-07 at 21 49 39" src="https://github.com/user-attachments/assets/649cdf65-b549-4455-831d-16c894789d05" />
+<img width="1062" height="421" alt="Screenshot 2025-08-07 at 21 49 39" src="https://github.com/user-attachments/assets/08ef7197-7a24-4985-b339-860e20934aba" />
+
 
 Workflow 
 

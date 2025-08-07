@@ -47,4 +47,4 @@ Using n8n to build powerful, no-code workflows
 
 💡 Why I Built This
 
-I’m learning automation from scratch with no prior tech background. This is one of my first real-world projects to make life easier and showcase what no-code tools can do.
+I’m learning automation from scratch with no prior tech background. This is one of my first real-world projects to make life easier and showcase what no-code tools can do. Follow me on [LinkedIn]([url](https://www.linkedin.com/in/etinyenejimmy/)) to see my AI-automation journey. 

@@ -1,7 +1,8 @@
 # Exchange-rate-notifier-n8n
 This is a simple exchange rate notifier built on n8n. It drops the current NGN-USD, CAD, AUD &amp; GBP rates every morning by 8am. 
 
-✨ What It Does
+**What It Does**
+
 This workflow fetches daily exchange rates (USD, GBP, CAD, AUD) from a public API, compares today’s rate with yesterday’s, formats the data into a readable message, and emails it to multiple recipients — all automatically.
 
 ## 📌 Features

@@ -21,3 +21,5 @@ NGN: ₦1300.00
 GBP: ₦1040.00
 CAD: ₦980.23
 AUD: ₦875.43
+Image
+<img width="1402" height="789" alt="Screenshot 2025-08-07 at 21 34 58" src="https://github.com/user-attachments/assets/94f57448-6305-44e8-a5c6-af78c34aacd3" />

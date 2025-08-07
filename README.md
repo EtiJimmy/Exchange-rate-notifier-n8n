@@ -26,16 +26,12 @@ Gmail Node – Sends a personalized email update.
   
 ## 📬 Example Output
 
-💱 Today's exchange rates (1 USD to NGN equivalent):
-
-NGN: ₦1300.00
-GBP: ₦1040.00
-CAD: ₦980.23
-AUD: ₦875.43
+<img width="1062" height="421" alt="Screenshot 2025-08-07 at 21 49 39" src="https://github.com/user-attachments/assets/649cdf65-b549-4455-831d-16c894789d05" />
 
 Workflow 
 
 Image
+
 <img width="1402" height="789" alt="Screenshot 2025-08-07 at 21 34 58" src="https://github.com/user-attachments/assets/94f57448-6305-44e8-a5c6-af78c34aacd3" />
 
 Skills I Learned

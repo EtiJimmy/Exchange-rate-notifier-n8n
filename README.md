@@ -29,19 +29,19 @@ Gmail Node – Sends a personalized email update.
 <img width="1062" height="421" alt="Screenshot 2025-08-07 at 21 49 39" src="https://github.com/user-attachments/assets/08ef7197-7a24-4985-b339-860e20934aba" />
 
 
-Workflow 
+**Workflow** 
 
 Image
 
 <img width="1402" height="789" alt="Screenshot 2025-08-07 at 21 34 58" src="https://github.com/user-attachments/assets/94f57448-6305-44e8-a5c6-af78c34aacd3" />
 
-Skills I Learned
+**Skills Learned**
 
 Building logic in Code nodes (JavaScript in n8n)
 Connecting and authenticating APIs
 Creating dynamic, automated email flows
 Using n8n to build powerful, no-code workflows
 
-💡 Why I Built This
+**💡 Why I Built This**
 
 I’m learning automation from scratch with no prior tech background. This is one of my first real-world projects to make life easier and showcase what no-code tools can do. Follow me on [LinkedIn]([url](https://www.linkedin.com/in/etinyenejimmy/)) to see my AI-automation journey. 
